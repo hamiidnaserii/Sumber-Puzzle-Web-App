@@ -1,7 +1,7 @@
 {
     "name": "Sumber Puzzle",
     "short_name": "Sumber Puzzle",
-    "start_url": "",
+    "start_url": "./Sumber-Puzzle-Web-App/",
     "display": "standalone",
     "background_color": "#340057",
     "theme_color": "#340057",
